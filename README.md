@@ -1,5 +1,4 @@
 # Vinicius Coimbra Da Silva
-
 **`Desenvolvedor Web em Formação | Designer Gráfico | Técnico em TI`**
 
 Profissional com 21 anos em transição sólida para o desenvolvimento web, com background multidisciplinar em design gráfico, infraestrutura de TI e experiência prática adquirida durante o serviço militar. Atualmente cursando **Engenharia de Software na UDF — Centro Universitário do Distrito Federal**, onde aprofundo minha base técnica e científica para atuar com excelência na área de tecnologia.
@@ -15,11 +14,8 @@ Profissional com 21 anos em transição sólida para o desenvolvimento web, com 
 ### 🎯 Sobre mim
 
 - 🎨 **Design Gráfico** — Formação de nível intermediário, com domínio das ferramentas como **CorelDRAW**, aplicadas em projetos de comunicação visual e identidade digital.
-
 - 🪖 **Experiência Militar (2023)** — Servi ao **Exército Brasileiro** no **32º Grupo de Artilharia de Campanha**, designado para a seção de informática, onde atuei com manutenção de hardware, administração de redes, servidores e sistemas operacionais **Linux**. Durante esse período, participei do desenvolvimento de um sistema web interno para controle de entrada e saída de equipamentos do quartel, em colaboração com outros desenvolvedores.
-
 - 🐧 **Infraestrutura & Linux** — Amplo domínio em **Linux Mint**, incluindo navegação e administração via terminal.
-
 - 💻 **Desenvolvimento Web** — Estudos focados em linguagens e tecnologias voltadas ao desenvolvimento web, alinhados à formação em Engenharia de Software, construindo uma base técnica sólida para atuar na área.
 
 ---
@@ -44,20 +40,4 @@ Profissional com 21 anos em transição sólida para o desenvolvimento web, com 
 
 ---
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<img alt="Coraline GIF" src="./coraline.gif" width="900"/>
