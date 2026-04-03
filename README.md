@@ -14,7 +14,7 @@ Profissional com 21 anos em transição sólida para o desenvolvimento web, com 
 
 ### 🎯 Sobre mim
 
-- 🎨 **Design Gráfico** — Formação de nível intermediário, com domínio das ferramentas **Adobe Photoshop** e **CorelDRAW**, aplicadas em projetos de comunicação visual e identidade digital.
+- 🎨 **Design Gráfico** — Formação de nível intermediário, com domínio das ferramentas como **CorelDRAW**, aplicadas em projetos de comunicação visual e identidade digital.
 
 - 🪖 **Experiência Militar (2023)** — Servi ao **Exército Brasileiro** no **32º Grupo de Artilharia de Campanha**, designado para a seção de informática, onde atuei com manutenção de hardware, administração de redes, servidores e sistemas operacionais **Linux**. Durante esse período, participei do desenvolvimento de um sistema web interno para controle de entrada e saída de equipamentos do quartel, em colaboração com outros desenvolvedores.
 
