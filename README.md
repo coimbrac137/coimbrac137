@@ -1,4 +1,4 @@
-# Vinicius Coimbra Da Silva
+# Vinicius Coimbra 
 **`Desenvolvedor Web em Formação | Designer Gráfico | Técnico em TI`**
 
 Profissional com 21 anos em transição sólida para o desenvolvimento web, com background multidisciplinar em design gráfico, infraestrutura de TI e experiência prática adquirida durante o serviço militar. Atualmente cursando **Engenharia de Software na UDF — Centro Universitário do Distrito Federal**, onde aprofundo minha base técnica e científica para atuar com excelência na área de tecnologia.
