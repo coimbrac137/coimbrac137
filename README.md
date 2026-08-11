@@ -19,7 +19,6 @@ Também possuo experiência com **Linux, infraestrutura de TI, redes e manutenç
 
 ### 👨‍💻 Sobre mim
 
-* 💻 **Desenvolvimento Web Full Stack** — Foco no desenvolvimento de aplicações web completas, atuando tanto no front-end quanto no back-end.
 * 🌐 **Front-end** — Desenvolvimento de interfaces e páginas web utilizando **HTML5, CSS3 e JavaScript**.
 * ⚙️ **Back-end** — Desenvolvimento de aplicações e sistemas web utilizando **PHP**.
 * 🗄️ **Banco de Dados** — Criação, estruturação, consultas e gerenciamento de bancos de dados utilizando **MySQL**.
@@ -61,7 +60,7 @@ Também possuo experiência com **Linux, infraestrutura de TI, redes e manutenç
 
 <img align="left" alt="WordPress" title="WordPress" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
 
-<img align="left" alt="Wix Studio" title="Wix Studio" width="40px" style="padding-right: 10px;" src="https://static.wixstatic.com/media/0c8e8f_7a6f0a7e5f0d4f2e9d7b6a4f5c3e2d1f~mv2.png" />
+<img align="left" alt="Wix Studio" title="Wix Studio" width="150px" style="padding-right: 10px;" src="https://img.shields.io/badge/Wix%20Studio-0C0C0C?style=for-the-badge&logo=wix&logoColor=white" />
 
 <br/>
 <br/>
@@ -70,18 +69,10 @@ Também possuo experiência com **Linux, infraestrutura de TI, redes e manutenç
 
 <img align="left" alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
-<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
 <img align="left" alt="GitHub" title="GitHub" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 <br/>
 <br/>
-
----
-
-### 📌 Projetos
-
-Aqui você encontrará projetos desenvolvidos durante minha formação em **Engenharia de Software** e minha trajetória de aprendizado em **Desenvolvimento Web**, envolvendo front-end, back-end, bancos de dados, ferramentas No-Code/Low-Code e sistemas web.
 
 ---
 
