@@ -69,6 +69,8 @@ Também possuo experiência com **Linux, infraestrutura de TI, redes e manutenç
 
 <img align="left" alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
+<img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
 <!-- ÍCONE DO GITHUB COM ADAPTAÇÃO DE CORES -->
 <p align="left">
   <picture>
