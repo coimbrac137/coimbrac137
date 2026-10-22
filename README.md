@@ -60,6 +60,10 @@ Também possuo experiência com **Linux, infraestrutura de TI, redes e manutenç
   <img align="left" alt="YouTube" title="YouTube" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/youtube/youtube-original.svg" />
 </a>
 
+<a href="https://www.instagram.com/coimbra_c137/" target="_blank">
+  <img align="left" alt="Instagram" title="Instagram" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" />
+</a>
+
 <br/>
 <br/>
 
