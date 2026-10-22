@@ -53,15 +53,19 @@ Também possuo experiência com **Linux, infraestrutura de TI, redes e manutenç
 ### 🌐 Redes Sociais
 
 <a href="https://www.linkedin.com/in/vinicius-coimbra-5076bb254/?isSelfProfile=true" target="_blank">
-  <img align="left" alt="LinkedIn" title="LinkedIn" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  <img align="left" alt="LinkedIn" title="LinkedIn" width="40px" style="padding-right: 10px;" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://www.youtube.com/@coimbra_c137" target="_blank">
-  <img align="left" alt="YouTube" title="YouTube" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/youtube/youtube-original.svg" />
+  <img align="left" alt="YouTube" title="YouTube" width="40px" style="padding-right: 10px;" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 
 <a href="https://www.instagram.com/coimbra_c137/" target="_blank">
-  <img align="left" alt="Instagram" title="Instagram" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg" />
+  <img align="left" alt="Instagram" title="Instagram" width="40px" style="padding-right: 10px;" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.tiktok.com/@coimbrac137" target="_blank">
+  <img align="left" alt="TikTok" title="TikTok" width="40px" style="padding-right: 10px;" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 
 <br/>
