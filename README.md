@@ -41,10 +41,6 @@ Também possuo experiência com **Linux, infraestrutura de TI, redes e manutenç
 
 <img align="left" alt="MySQL" title="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
 
-<img align="left" alt="WordPress" title="WordPress" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" />
-
-<img align="left" alt="Wix Studio" title="Wix Studio" width="150px" style="padding-right: 10px;" src="https://img.shields.io/badge/Wix%20Studio-0C0C0C?style=for-the-badge&logo=wix&logoColor=white" />
-
 <img align="left" alt="Linux" title="Linux" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
 
 <img align="left" alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
