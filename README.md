@@ -50,4 +50,19 @@ Também possuo experiência com **Linux, infraestrutura de TI, redes e manutenç
 
 ---
 
+### 🌐 Redes Sociais
+
+<a href="https://www.linkedin.com/in/vinicius-coimbra-5076bb254/?isSelfProfile=true" target="_blank">
+  <img align="left" alt="LinkedIn" title="LinkedIn" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
+
+<a href="https://www.youtube.com/@coimbra_c137" target="_blank">
+  <img align="left" alt="YouTube" title="YouTube" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/youtube/youtube-original.svg" />
+</a>
+
+<br/>
+<br/>
+
+---
+
 <img alt="Coraline GIF" src="./coraline.gif" width="900"/>
