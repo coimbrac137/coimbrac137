@@ -17,18 +17,6 @@ Também possuo experiência com **Linux, infraestrutura de TI, redes e manutenç
 
 ---
 
-### 👨‍💻 Sobre mim
-
-* 🌐 **Front-end** — Desenvolvimento de interfaces e páginas web utilizando **HTML5, CSS3 e JavaScript**.
-* ⚙️ **Back-end** — Desenvolvimento de aplicações e sistemas web utilizando **PHP**.
-* 🗄️ **Banco de Dados** — Criação, estruturação, consultas e gerenciamento de bancos de dados utilizando **MySQL**.
-* 🧩 **No-Code & Low-Code** — Desenvolvimento e criação de sites e soluções digitais utilizando plataformas como **WordPress** e **Wix Studio**.
-* 🐧 **Linux** — Experiência com **Linux Mint**, utilização do terminal, configuração e administração básica do sistema.
-* 🖥️ **Infraestrutura de TI** — Conhecimentos em manutenção de hardware, redes, sistemas operacionais e servidores.
-* 🪖 **Experiência Militar (2023)** — Atuação no **Exército Brasileiro**, no **32º Grupo de Artilharia de Campanha**, junto à seção de informática. Durante esse período, trabalhei com manutenção de computadores, redes, servidores e sistemas operacionais Linux, além de participar do desenvolvimento de um sistema web interno para controle de entrada e saída de equipamentos.
-
----
-
 ### 🛠️ Linguagens e Tecnologias
 
 <img align="left" alt="HTML5" title="HTML5" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
