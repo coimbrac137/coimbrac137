@@ -1,6 +1,6 @@
 # Vinicius Coimbra
 
-**Desenvolvedor Web Full Stack | Vibe Coding**
+**Desenvolvedor Web Full Stack | Vibe Coder**
 
 Estudante de **Engenharia de Software na UDF — Centro Universitário do Distrito Federal**, com foco no desenvolvimento de aplicações web **Full Stack**.
 
